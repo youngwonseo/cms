@@ -1,4 +1,4 @@
-package io.youngwon.cms.exception
+package io.youngwon.cms.common.exception
 
 import mu.KotlinLogging
 import org.springframework.web.bind.annotation.ExceptionHandler
