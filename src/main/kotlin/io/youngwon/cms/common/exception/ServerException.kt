@@ -1,4 +1,4 @@
-package io.youngwon.cms.exception
+package io.youngwon.cms.common.exception
 
 sealed class ServerException(
     val code: Int,
